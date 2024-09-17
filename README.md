@@ -1,0 +1,2 @@
+# notes-rust
+leaning rust
